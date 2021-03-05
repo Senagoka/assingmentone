@@ -1,14 +1,14 @@
 section{
+    
+    background-position:center center ;
+     background-repeat: no-repeat; 
+     background-size: cover; 
     background-image: url(/IMG/pexels.jpeg);
     display: flex;
     padding: 40px;
     justify-content: space-between;
 }
 body{ 
-    /* background-position:center center ; */
-    /* background-image: url(/IMG/pexels.jpeg); */
-     /* background-repeat: no-repeat;  */
-     /* background-size: cover;  */
     background-color: rgb(187, 185, 185);
 }
 header{
