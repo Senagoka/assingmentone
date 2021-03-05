@@ -1,0 +1,51 @@
+section{
+    background-image: url(/IMG/pexels.jpeg);
+    display: flex;
+    padding: 40px;
+    justify-content: space-between;
+}
+body{ 
+    /* background-position:center center ; */
+    /* background-image: url(/IMG/pexels.jpeg); */
+     /* background-repeat: no-repeat;  */
+     /* background-size: cover;  */
+    background-color: rgb(187, 185, 185);
+}
+header{
+
+    margin-left: 40px;
+    margin-right: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+hr{
+    margin: 40px;
+}
+header nav ul{
+display: flex;
+}
+header nav ul li{
+    list-style-type: none;
+    margin: 20px;
+
+}
+header nav ul li:hover{
+background-color: rgb(2, 2, 99);
+cursor: pointer;
+}
+a{
+    color: rgb(60, 117, 3);
+    text-decoration: none;
+}
+div{
+  width: 60%;
+  height: 250px;  
+}
+footer{
+    background-color: blue;
+}
+
+
+img{
+    width: 60%;
+}
