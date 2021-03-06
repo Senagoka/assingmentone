@@ -34,18 +34,26 @@ background-color: rgb(2, 2, 99);
 cursor: pointer;
 }
 a{
-    color: rgb(60, 117, 3);
+    color: blue;
     text-decoration: none;
 }
 div{
   width: 60%;
   height: 250px;  
 }
+.man{
+    
+    display: flex;
+}
 footer{
+    height: 200px;
     background-color: blue;
 }
 
 
 img{
     width: 60%;
+}
+aside{
+    /* height: 250px; */
 }
